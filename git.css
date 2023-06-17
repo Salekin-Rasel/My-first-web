@@ -1,0 +1,26 @@
+.member{
+    border: purple solid 10px;
+    border-radius: 30px;
+    height: 25%;
+    width: 20%;
+    margin: 10px;
+    padding: 10px 10px;
+    display: inline-block;
+    overflow: hidden;
+    
+    
+}
+
+.member img{
+    width: 30%;
+    height: 30%;
+    object-fit: contain;
+
+}
+
+#buttmember{
+    text-align: center;
+    font-size: 100px;
+    align-items: right;
+    
+}
